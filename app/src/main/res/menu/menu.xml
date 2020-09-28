@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/save"
+        android:title="@string/save"
+        apps:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/save_pdf"
+        android:title="@string/save_as_pdf"
+        apps:showAsAction="never"/>
+    <item
+        android:id="@+id/save_txt"
+        android:title="@string/save_as_txt"
+        apps:showAsAction="never"/>
+    <item
+        android:id="@+id/share_pdf"
+        android:title="@string/share_as_pdf"
+        apps:showAsAction="never"/>
+    <item
+        android:id="@+id/share_txt"
+        android:title="@string/share_as_txt"
+        apps:showAsAction="never"/>
+
+
+
+</menu>

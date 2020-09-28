@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="add_new_notes">Ajouter une nouvelle note</string>
+    <string name="title">Titre</string>
+    <string name="description">La description</string>
+    <string name="empty_list">Votre liste est vide! Ajoutez quelque chose pour le remplir</string>
+    <string name="cancel">Annuler</string>
+    <string name="Continue">Continuer</string>
+    <string name="enter_password">Entrer le mot de passe</string>
+    <string name="digits_max">10 chiffres MAX</string>
+    <string name="forget_password_warning">Souvenez-vous de ce mot de passe. Si vous l\'oubliez, vous devrez effacer le stockage des données de l\'application afin que toutes les données soient effacées</string>
+    <string name="new_folder">Nouveau dossier</string>
+    <string name="folder_name">Nom de dossier</string>
+    <string name="description_optional">Description (facultatif)</string>
+    <string name="add">Ajouter</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+</resources>
